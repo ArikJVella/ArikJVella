@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! Nice to have you on my profile!<br><br>I'm Arik Jonas Vella, and I am looking to get into the Game Development industry.<br><br>🔭 I mainly have experience working with Unity, although I am trying to expand into<br>other game engines such as CryEngine & Unreal Engine.<br><br>🌱 I’m currently trying to learn more about 3D game development.<br><br>🤝 My area of focus is UX design, although I am also highly interested in learning<br>level design & UI systems.<br><br>💬 For more information on my current projects, feel free to visit my portfolio at<br>[www.www.com](https://arikjvella.wixsite.com/arikjvella)
+Hey! Nice to have you on my profile!<br><br>I'm Arik Jonas Vella, and I am looking to get into the Game Development industry.<br><br>🔭 I mainly have experience working with Unity, although I am trying to expand into<br>other game engines such as CryEngine & Unreal Engine.<br><br>🌱 I’m currently trying to learn more about 3D game development.<br><br>🤝 My area of focus is UX design, although I am also highly interested in learning<br>level design & UI systems.<br><br>💬 For more information on my current projects, feel free to visit my portfolio at<br>arikjvella.wixsite.com/arikjvella
 
 
 ## 🌐 Socials:
